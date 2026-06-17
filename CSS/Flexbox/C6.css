@@ -1,0 +1,11 @@
+.cards {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
+    padding: 30px;
+    background-color: lightgray;
+    text-align: center;
+}

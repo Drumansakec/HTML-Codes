@@ -1,0 +1,17 @@
+.quote-box {
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    border-left: 5px solid blue;
+    background-color: #f5f5f5;
+}
+
+.quote-box p {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.quote-box h4 {
+    text-align: right;
+    color: gray;
+}

@@ -1,0 +1,6 @@
+.banner {
+    background: linear-gradient(to right, purple, pink);
+    color: white;
+    text-align: center;
+    padding: 50px;
+}

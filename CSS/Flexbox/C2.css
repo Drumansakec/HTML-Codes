@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    background: lightgreen;
+    padding: 20px;
+    margin: 10px;
+}

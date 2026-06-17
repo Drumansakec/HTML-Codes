@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    background: lightcoral;
+    padding: 20px;
+}

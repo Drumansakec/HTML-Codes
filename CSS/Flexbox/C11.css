@@ -1,0 +1,13 @@
+.pricing {
+    display: flex;
+    gap: 20px;
+}
+
+.plan {
+    flex: 1;
+    padding: 30px;
+    text-align: center;
+
+    border: 1px solid gray;
+    box-shadow: 0 0 5px lightgray;
+}

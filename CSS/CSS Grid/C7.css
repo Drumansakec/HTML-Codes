@@ -1,0 +1,24 @@
+.magazine {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto 1fr auto;
+    gap: 10px;
+}
+
+header,
+footer {
+    grid-column: 1 / 3;
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+article {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+aside {
+    background-color: lightpink;
+    padding: 20px;
+}

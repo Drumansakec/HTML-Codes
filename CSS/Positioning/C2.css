@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+    height: 200px;
+    border: 2px solid gray;
+}
+
+.box {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+
+    background-color: lightgreen;
+    padding: 20px;
+}

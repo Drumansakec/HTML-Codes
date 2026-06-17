@@ -1,0 +1,19 @@
+.blog-post {
+    width: 70%;
+    margin: 40px auto;
+    font-family: Georgia, serif;
+}
+
+.blog-post h1 {
+    font-size: 36px;
+}
+
+.author {
+    font-style: italic;
+    color: gray;
+}
+
+.blog-post p {
+    line-height: 1.8;
+    text-align: justify;
+}

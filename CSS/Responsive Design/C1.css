@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Mobile Devices */
+@media (max-width: 600px) {
+    body {
+        background-color: lightgreen;
+    }
+}

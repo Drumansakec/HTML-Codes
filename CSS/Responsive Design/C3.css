@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.column {
+    flex: 1;
+    padding: 30px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+/* Mobile Devices */
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,13 @@
+.box {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+}
+
+.remove {
+    display: none;
+}
+
+.invisible {
+    visibility: hidden;
+}

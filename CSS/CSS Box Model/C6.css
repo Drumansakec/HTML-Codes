@@ -1,0 +1,17 @@
+.box {
+    background-color: lightblue;
+    border: 1px solid black;
+    margin: 15px;
+}
+
+.box1 {
+    padding: 10px;
+}
+
+.box2 {
+    padding: 20px;
+}
+
+.box3 {
+    padding: 30px;
+}

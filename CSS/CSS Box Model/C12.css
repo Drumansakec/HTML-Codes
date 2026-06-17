@@ -1,0 +1,9 @@
+.notification {
+    width: 320px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff8dc;
+    border-left: 5px solid orange;
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}

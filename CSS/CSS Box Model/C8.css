@@ -1,0 +1,18 @@
+.pricing-card {
+    width: 300px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    text-align: center;
+    box-shadow: 0 0 10px lightgray;
+    border-radius: 10px;
+}
+
+.pricing-card h3 {
+    color: blue;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 15px;
+}

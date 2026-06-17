@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+}
